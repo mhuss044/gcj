@@ -1,0 +1,6 @@
+GNU Compiler for the Java proramming language
+http://gcc.gnu.org/java/
+
+Compiled Native Interface(CNI), alternative to Java Native Interface
+	Write Java native methods using C++
+	http://gcc.gnu.org/onlinedocs/gcj/About-CNI.html
